@@ -17,7 +17,7 @@ header{
 
 /* This will apply any included styles to the body element */
 body{
-
+    font-family: 'Courier New';
 }
 
 /* Create your own classes below! */
